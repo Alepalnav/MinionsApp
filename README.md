@@ -1,0 +1,7 @@
+- npm install -g @angular/cli
+- ng version
+- ng new angularFisrt 
+	- css
+	- y
+	- n
+- ng serve -o
